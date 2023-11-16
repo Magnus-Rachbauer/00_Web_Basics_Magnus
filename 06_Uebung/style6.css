@@ -7,7 +7,5 @@
 .container{
     background-color: green;
     height: 400px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+
 }
